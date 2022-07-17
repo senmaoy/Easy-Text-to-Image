@@ -1,6 +1,6 @@
-# AI for Science
+# Repoduced-Results-of-text-to-image-models
 
-We would like to maintain a list of progress (papers, codes etc) made in applying AI to science. Please feel free to [open an issue](https://github.com/Abundant-me/AI-for-Science/issues) to add papers.
+We would like to maintain a list of repoduced results of text-to-image models. Please feel free to [open an issue]to add your results.
 
 
 ## <a name="toc">Table of Contents</a>
