@@ -2,7 +2,7 @@
 
 We would like to maintain a list of repoduced results of text-to-image models. Please feel free to [open an issue]to add your results.
 
-# Submit your results
+# Submit your results and comments as a new issue
 [Submit](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/new/choose)
 ## <a name="toc">Table of Contents</a>
 - <a href="#2022">2022</a>
