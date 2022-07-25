@@ -20,4 +20,4 @@
   - FID$\downarrow$ : 
   - Extra Trainning Data: ×
 - Reproduce the results（Top）：IS:4.5，FID:23.34
-- Specific reproduction links：None
+- Specific reproduction links：https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/blob/main/Reproduce/DFGAN.json
