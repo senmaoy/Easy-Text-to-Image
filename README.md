@@ -13,7 +13,7 @@ We would like to maintain a list of repoduced results of text-to-image models. P
 
 - <a href="#2016">2016</a>
 
-## <a name="list">List of Results</a>
+## <a name="list">Summery sheet</a>
 
 
 ## <a name="Paper List">Paper List</a>
