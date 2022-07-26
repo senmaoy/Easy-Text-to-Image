@@ -18,9 +18,9 @@ We would like to maintain a list of repoduced results of text-to-image models. P
 
 - <a href="#2022">2022</a>
 
-DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis `CVPR` `2022` `paper result`4.8 `Best Reproduce result` 4.8
+ --DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis `CVPR` `2022` `paper result`4.8 `Best Reproduce result` 4.8
 - <a href="#2016">2016</a>
- - Generative adversarial text to image synthesis  `ICML` `2016``paper result` `Best Reproduce result`
+ -- Generative adversarial text to image synthesis  `ICML` `2016``paper result` `Best Reproduce result`
 
 
 
