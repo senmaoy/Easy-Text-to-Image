@@ -2,13 +2,13 @@
   "数据集":"CUB-200Birds",
   "复现指标":{
     "FID":9.25,
-    "IS":"",
+    "IS":5.90,
     "R-precision":"",
     "VS相似度":""
   },
-  "issue地址":"https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues",
+  "issue地址":"https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/2",
   "其他结果":"",
   "复现者":"cwj",
   "复核者":"",
-  "备注":"fid计算采用训练集图片作为真实图片，若采用测试集图片则为14-15之间"
+  "备注":"The result is obtained in a different way than in the traditional text-generated image field! It is the same as the calculation method in stylegan. In particular, the real pictures in the calculation of FID use the training set pictures instead of the test set pictures, and the inception model in the calculation of IS adopts the inception model trained directly on imagenet."
 }
