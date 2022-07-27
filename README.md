@@ -5,8 +5,9 @@ We would like to maintain a list of repoduced results of text-to-image models. P
 # Submit your results and comments as a new issue
 [Submit](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/new/choose) Click here
 
-[Example](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1): {paper:DF-GAN, IS:4.5,FID:23.34,details:The result is obtained with a 2080 TI and nf=32 on CUB}
+[Single Reuslt Example](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1): {paper:DF-GAN, IS:4.5,FID:23.34,details:The result is obtained with a 2080 TI and nf=32 on CUB}
 
+[Multiple Reuslts Example](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1): {paper:DF-GAN, IS:4.5,FID:23.34,details:The result is obtained with a 2080 TI and nf=32 on CUB}
 
 
 
