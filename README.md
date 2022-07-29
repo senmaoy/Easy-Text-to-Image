@@ -21,7 +21,7 @@ The results of each person matters. You are encouraged to submit your results an
 ### <a name="list">Summery sheet</a>
 In this sheet, we report the best results and average results.
 |    Pre-print Paper    |  Method  |  Conference  |  Code | IS(bird) |FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
-|  :---------  | :------:  | :------: | :------: |
+|  :---------  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |:------: |
 | [DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis](https://arxiv.org/pdf/2111.11821.pdf) | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) |
 | [Generative adversarial text to image synthesis](https://arxiv.org/pdf/2109.12714.pdf) | - | Arxiv 2021 | - |
 
