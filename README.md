@@ -22,8 +22,8 @@ The results of each person matters. You are encouraged to submit your results an
 ### <a name="list">Summery sheet</a>
 In this sheet, we report the best results and average results.
 
-|    Pre-print Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
-|  :---------  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
+|    Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+|  : :------:  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
 | [DF-GAN]() | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.1/4.8 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 
 ### <a name="Paper List">Paper List</a>
