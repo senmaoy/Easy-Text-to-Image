@@ -27,7 +27,7 @@ In this sheet, we report the best results and average results.
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|
 |  :---------  | :------:  | :------: | :------: |:------: |:------: |
-| [Exploring Non-Contrastive Representation Learning for Deep Clustering](https://arxiv.org/pdf/2111.11821.pdf) | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | IS(bird) | |FID(bird)|
+| [Exploring Non-Contrastive Representation Learning for Deep Clustering](https://arxiv.org/pdf/2111.11821.pdf) | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | IS(bird) | FID(bird)|
 
 ### <a name="Paper List">Paper List</a>
 
