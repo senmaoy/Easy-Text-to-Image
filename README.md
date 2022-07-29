@@ -25,9 +25,9 @@ In this sheet, we report the best results and average results.
 | [DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis](https://arxiv.org/pdf/2111.11821.pdf) |   Method  |  Conference  |  Code | IS(bird) |FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|(https://github.com/Hzzone/DeepClustering.SSL) |
 | [Generative adversarial text to image synthesis](https://arxiv.org/pdf/2109.12714.pdf) |  Method  |  Conference  |  Code | IS(bird) |FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 
-|    Pre-print Paper    |  Method  |  Conference  |  Code | IS(bird) |FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
-|  :---------  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |:------: |
-| [Exploring Non-Contrastive Representation Learning for Deep Clustering](https://arxiv.org/pdf/2111.11821.pdf) | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | IS(bird) |FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+|    Pre-print Paper    |  Method  |  Conference  |  Code | 
+|  :---------  | :------:  | :------: | :------: |
+| [Exploring Non-Contrastive Representation Learning for Deep Clustering](https://arxiv.org/pdf/2111.11821.pdf) | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) |
 
 ### <a name="Paper List">Paper List</a>
 
