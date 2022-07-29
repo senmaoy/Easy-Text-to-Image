@@ -27,7 +27,7 @@ In this sheet, we report the best results and average results.
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 |  :---------  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
-| [DF-GAN](https://arxiv.org/pdf/2111.11821.pdf) | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+| [DF-GAN]() | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.1/4.8 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 
 ### <a name="Paper List">Paper List</a>
 
