@@ -19,6 +19,10 @@ We would like to maintain a list of repoduced results of text-to-image models. P
 
 ### <a name="list">Summery sheet</a>
 
+|    Pre-print Paper    |  Method  |  Conference  |  Code |
+|  :---------  | :------:  | :------: | :------: |
+| [DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis](https://arxiv.org/pdf/2111.11821.pdf) | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) |
+| [Generative adversarial text to image synthesis](https://arxiv.org/pdf/2109.12714.pdf) | - | Arxiv 2021 | - |
 
 ### <a name="Paper List">Paper List</a>
 
