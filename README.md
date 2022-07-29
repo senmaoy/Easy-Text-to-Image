@@ -1,7 +1,4 @@
-<!-- 
-<h1 align="center">
-    <p>Easy T2I</p>
-</h1> -->
+
 # A tutorial for text-to-image synthesis
 To make text-to-image (T2I) easy, this repository will  provide simple demos, a comprehensive survey, and many experimental experiences. 
 ## Simple demos
