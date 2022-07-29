@@ -37,7 +37,11 @@ In this sheet, we report the best results and average results.
  - Generative adversarial text to image synthesis  `ICML` `2016``paper result` `Best Reproduce result`
 
 
-#Contributors
+# Contributors
+
+|    Name   |  github ID  |  Results Submitted  |  Other Contribution |
+|  :---------  | :------:  | :------: | :------: |
+| [[Shouxin Zhang](https://github.com/secularism) | secularism | 0 | routine maintenance |
 
 
 
