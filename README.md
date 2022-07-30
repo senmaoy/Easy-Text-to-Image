@@ -24,7 +24,11 @@ In this sheet, we report the best results, average results, and original result.
 
 |    Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 |   :------:  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
-| [DF-GAN]() | NCC | Arxiv 2021 | [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+| [DF-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+| [stack-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+| [stack++]() | GAN | Tpami| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+| [DCGAN]() | GAN | ICML| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+| [RAT-GAN]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 
 ### <a name="Paper List">Paper List</a>
 
