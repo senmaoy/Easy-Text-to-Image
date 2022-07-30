@@ -3,7 +3,8 @@
 To make text-to-image (T2I) easy, this repository will  provide simple demos, a comprehensive survey, and many experimental experiences. 
 ## Simple Demos
 
-## A comprehensive survey,
+## A comprehensive survey
+[Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) Click here
 
 ## Repoduced-Results-of-text-to-image-models
 
@@ -34,18 +35,21 @@ In this sheet, we report the best results, average results, and original result.
 
 
  <a href="#2022">2022</a>
- - DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis `CVPR` `2022` `paper result`4.8 `Best Reproduce result` 4.8
+ - DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis `CVPR` `2022` `results`[4.8](https://github.com/Hzzone/DeepClustering.SSL), [4.8](https://github.com/Hzzone/DeepClustering.SSL),[4.8](https://github.com/Hzzone/DeepClustering.SSL),[4.8](https://github.com/Hzzone/DeepClustering.SSL)
 
 
  <a href="#2016">2016</a>
- - Generative adversarial text to image synthesis  `ICML` `2016``paper result` `Best Reproduce result`
+ - Generative adversarial text to image synthesis  `ICML` `2016` `results`[4.8](https://github.com/Hzzone/DeepClustering.SSL), [4.8](https://github.com/Hzzone/DeepClustering.SSL),[4.8](https://github.com/Hzzone/DeepClustering.SSL),[4.8](https://github.com/Hzzone/DeepClustering.SSL)
 
 
 # Contributors
 
-|    Name   |  github ID  |  Results Submitted  |  Other Contribution |
-|  :---------  | :------:  | :------: | :------: |
-| [Shouxin Zhang](https://github.com/secularism) | secularism | 0 | routine maintenance |
+|    Name   |  Results Submitted  |  Other Contribution |
+|  :---------  | :------: | :------: |
+| [Wenjun Chen](https://github.com/Cwj1212)  | 1 | -|
+| [Shouxin Zhang](https://github.com/secularism)  | 0 | Routine maintenance |
+| [Jingsong Su](https://github.com/Heavenhjs) | 2 | Build the demos |
+| [Yutong Zhou](https://github.com/Yutong-Zhou-cv)  | - | Build the survey|
 
 
 
