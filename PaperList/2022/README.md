@@ -21,3 +21,14 @@
   - Extra Trainning Data: ×
 - Reproduce the results（Top）：IS:4.5，FID:23.34
 - Specific reproduction links：https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/blob/main/Reproduce/DFGAN.json
+
+## 3.SSA-GAN
+
+- Code：https://github.com/wtliao/text2image
+- Paper：https://arxiv.org/pdf/2104.00567v6.pdf
+- Index：
+  - Inception score $\uparrow$:
+  - FID$\downarrow$ : 
+  - Extra Trainning Data: 
+- Reproduce the results（Top）：IS:4.97±0.10，FID:15.699683021293254
+- Specific reproduction links：

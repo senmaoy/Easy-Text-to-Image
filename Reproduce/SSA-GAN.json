@@ -1,0 +1,30 @@
+{
+  "SSACN": {
+    "数据集": "CUB-200Birds",
+    "复现指标": {
+      "FID": 15.699683021293254,
+      "IS": "4.97±0.10",
+      "R-precision": "",
+      "VS相似度": ""
+    },
+    "issue地址": "https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/3",
+    "其他结果": "",
+    "复现者": "hjs",
+    "复核者": "",
+    "备注": "batchsize=24 nf=64 on CUB"
+  },
+  "SSACN+finetune": {
+    "数据集": "CUB-200Birds",
+    "复现指标": {
+      "FID": "",
+      "IS": 5.17,
+      "R-precision": "",
+      "VS相似度": ""
+    },
+    "issue地址": "https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/4",
+    "其他结果": "",
+    "复现者": "Ashores",
+    "复核者": "",
+    "备注": "batch_size =32, nf =64, test on tesla V100 32G."
+  }
+}

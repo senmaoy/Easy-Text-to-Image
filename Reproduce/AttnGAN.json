@@ -1,0 +1,14 @@
+{
+  "数据集": "CUB-200Birds",
+  "复现指标": {
+    "FID": "",
+    "IS": 4.02,
+    "R-precision": "",
+    "VS相似度": ""
+  },
+  "issue地址": "https://github.com/senmaoy/Easy-Text-to-Image/issues/1",
+  "其他结果": "",
+  "复现者": "senmaoye",
+  "复核者": "",
+  "备注": "The result is obtained with a titian pascal(12GB)"
+}
