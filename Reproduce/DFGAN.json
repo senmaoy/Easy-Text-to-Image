@@ -1,64 +1,58 @@
 {
-  "DFGAN":
-    {
-      "数据集":"CUB-200Birds",
-      "复现指标":{
-        "FID":23.34,
-        "IS":4.5,
-        "R-precision":"",
-        "VS相似度":""
-      },
-      "issue地址":"https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1",
-      "其他结果":"",
-      "复现者":"senmaoye",
-      "复核者":"",
-      "备注":"The result is obtained with a 2080 TI and nf=32 on CUB"
-    }
-  ,
-  "old DF-GAN code（2020）":
-    {
-      "数据集":"CUB-200Birds",
-      "复现指标":{
-        "FID":22.974645958490953,
-        "IS":"4.67±0.13",
-        "R-precision":"",
-        "VS相似度":""
-      },
-      "issue地址":"https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/3",
-      "其他结果":"",
-      "复现者":"hjs",
-      "复核者":"",
-      "备注":"batch_size=32, nf = 32, on CUB"
-    }
-  ,
-  "new DF-GAN code（2022）":
-    {
-      "数据集":"CUB-200Birds",
-      "复现指标":{
-        "FID":14.81,
-        "IS":"4.52±0.12",
-        "R-precision":"",
-        "VS相似度":""
-      },
-      "issue地址":"https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/3",
-      "其他结果":"",
-      "复现者":"hjs",
-      "复核者":"",
-      "备注":"batch_size=32, nf = 32, on CUB.It is noteworthy that this code change the way to caculate FID. Horizontal flip and small-scale random offset are used to expand the pictures of the test set."
+  "DFGAN": {
+    "数据集": "CUB-200Birds",
+    "复现指标": {
+      "FID": 23.34,
+      "IS": 4.5,
+      "R-precision": "",
+      "VS相似度": ""
     },
-    "new DF-GAN code":{
-      "数据集":"CUB-200Birds",
-      "复现指标":{
-        "FID":12.28,
-        "IS":"",
-        "R-precision":"",
-        "VS相似度":""
-      },
-      "issue地址":"https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/4",
-      "其他结果":"",
-      "复现者":"hjs",
-      "复核者":"",
-      "备注":"batch_size=32, nf = 32, test on tesla V100 32G."
-    }
-  
+    "issue地址": "https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1",
+    "其他结果": "",
+    "复现者": "senmaoye",
+    "复核者": "",
+    "备注": "The result is obtained with a 2080 TI and nf=32 on CUB"
+  },
+  "old DF-GAN code（2020）": {
+    "数据集": "CUB-200Birds",
+    "复现指标": {
+      "FID": 22.974645958490953,
+      "IS": "4.67±0.13",
+      "R-precision": "",
+      "VS相似度": ""
+    },
+    "issue地址": "https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/3",
+    "其他结果": "",
+    "复现者": "hjs",
+    "复核者": "",
+    "备注": "batch_size=32, nf = 32, on CUB"
+  },
+  "new DF-GAN code（2022）": {
+    "数据集": "CUB-200Birds",
+    "复现指标": {
+      "FID": 14.81,
+      "IS": "4.52±0.12",
+      "R-precision": "",
+      "VS相似度": ""
+    },
+    "issue地址": "https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/3",
+    "其他结果": "",
+    "复现者": "hjs",
+    "复核者": "",
+    "备注": "batch_size=32, nf = 32, on CUB.It is noteworthy that this code change the way to caculate FID. Horizontal flip and small-scale random offset are used to expand the pictures of the test set."
+  },
+  "new DF-GAN code": {
+    "数据集": "CUB-200Birds",
+    "复现指标": {
+      "FID": 12.28,
+      "IS": "",
+      "R-precision": "",
+      "VS相似度": ""
+    },
+    "issue地址": "https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/4",
+    "其他结果": "",
+    "复现者": "hjs",
+    "复核者": "",
+    "备注": "batch_size=32, nf = 32, test on tesla V100 32G."
+  }
 }

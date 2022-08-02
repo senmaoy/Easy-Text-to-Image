@@ -11,5 +11,5 @@
   - FID$\downarrow$ : 
   - Extra Trainning Data: 
 - Reproduce the results（Top）：IS:2.81
-- Specific reproduction links：None
+- Specific reproduction links：https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/Generative%20text-to-image%20synthesis.json
 

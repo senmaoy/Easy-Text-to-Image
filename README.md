@@ -25,21 +25,31 @@ In this sheet, we report the best results, average results, and original result.
 
 |    Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 |   :------:  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
-| [DF-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
-| [stack-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
-| [stack++]() | GAN | Tpami| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
-| [DCGAN]() | GAN | ICML| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
-| [RAT-GAN]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.9/4.8/5.1 | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+| [DF-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.10 | 14.81 |- |   19.32   |     -      |      -      |
+| [stack-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 3.70±.07 | 51.89 |8.45±.03 |   74.05   |  3.20±.01  |55.28|
+| [stack++]() | GAN | Tpami| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.04±.05 | 15.30 |8.30±.10 |   81.59   |3.26±.01 |48.68|
+| [DCGAN]() | GAN | ICML| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | - | - |    -     |-|- |-|
+| [RAT-GAN]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.36±.20 | 13.91 |- |   14.60   |4.09 |-|
 
 ### <a name="Paper List">Paper List</a>
 
 
  <a href="#2022">2022</a>
- - DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis `CVPR` `2022` `results`[4.8](https://github.com/Hzzone/DeepClustering.SSL), [4.8](https://github.com/Hzzone/DeepClustering.SSL),[4.8](https://github.com/Hzzone/DeepClustering.SSL),[4.8](https://github.com/Hzzone/DeepClustering.SSL)
+ - DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis `CVPR` `2022` `results`5.10 14.81(CUB)
+ - RAT-GAN：Recurrent Affine Transformation for Text-to-image Synthesis `CVPR` `2022` `results` 5.36±.20 13.91
+
+<a href="#2017">2017</a>
+
+- StackGAN:Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks `CVPR` `2017` `results`3.70±.07  51.89
+
+<a href="#2018">2018</a>
+
+- StackGAN++:Realistic Image Synthesis with Stacked Generative Adversarial Networks `CVPR` `2018 ` `results `4.04±.05  15.30
 
 
  <a href="#2016">2016</a>
- - Generative adversarial text to image synthesis  `ICML` `2016` `results`[4.8](https://github.com/Hzzone/DeepClustering.SSL), [4.8](https://github.com/Hzzone/DeepClustering.SSL),[4.8](https://github.com/Hzzone/DeepClustering.SSL),[4.8](https://github.com/Hzzone/DeepClustering.SSL)
+ - Generative adversarial text to image synthesis  `ICML` `2016`
+ - DCGAN:UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS `ICLR` `2016`
 
 
 # Contributors

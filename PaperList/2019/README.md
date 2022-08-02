@@ -9,5 +9,5 @@
   - FID$\downarrow$ : 
   - Extra Trainning Data: ×
 - Reproduce the results（Top）：IS:4.02
-- Specific reproduction links：None
+- Specific reproduction links：https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/AttnGAN.json
 
