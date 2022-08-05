@@ -12,6 +12,7 @@ We would like to maintain a list of repoduced results of text-to-image models. P
 
 ### Submit your results as a new issue and volunteers will add them to the summary list.
 The results of each person matters. You are encouraged to submit your results and join us to help more people.
+
 [Click here to submit](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/new/choose)
 The submission formate is defined in [Submission Example](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1)
 
