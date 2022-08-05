@@ -12,11 +12,8 @@ We would like to maintain a list of repoduced results of text-to-image models. P
 
 ### Submit your results as a new issue and volunteers will add them to the summary list.
 The results of each person matters. You are encouraged to submit your results and join us to help more people.
-[Submit](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/new/choose) Click here
-
-[Single Reuslt Example](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1): {paper:DF-GAN, IS:4.5,FID:23.34,details:The result is obtained with a 2080 TI and nf=32 on CUB}
-
-[Multiple Reuslts Example](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1): {paper:DF-GAN, IS:4.5,FID:23.34,details:The result is obtained with a 2080 TI and nf=32 on CUB}
+[Click here to submit](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/new/choose)
+The submission formate is defined in [Submission Example](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1)
 
 
 
@@ -27,6 +24,7 @@ In this sheet, we report the best results, average results, and original result.
 |   :------:  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
 | [DF-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.10 | 14.81 |- |   19.32   |     -      |      -      |
 | [stack-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 3.70±.07 | 51.89 |8.45±.03 |   74.05   |  3.20±.01  |55.28|
+| [Lafite]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | - | 9.25 |- |  -   |- |-|
 | [stack++]() | GAN | Tpami| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.04±.05 | 15.30 |8.30±.10 |   81.59   |3.26±.01 |48.68|
 | [DCGAN]() | GAN | ICML| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | - | - |    -     |-|- |-|
 | [RAT-GAN]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.36±.20 | 13.91 |- |   14.60   |4.09 |-|
