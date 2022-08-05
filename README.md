@@ -15,7 +15,7 @@ The results of each person matters. You are encouraged to submit your results an
 
 [Click here to submit](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/new/choose)
 
-The submission formate is defined in [Submission Example](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1)
+The submission formate is defined in [Submission Example](https://github.com/senmaoy/Repoduced-Results-of-text-to-image-models/issues/1). If you have more than one result, submit them in a single issue and summurize them in the title.
 
 
 
