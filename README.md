@@ -56,7 +56,7 @@ In this sheet, we summarize the original results in the paper.
 
 <a href="#2018">2018</a>
 
-- [StackGAN++:Realistic Image Synthesis with Stacked Generative Adversarial Networks `CVPR` `2018 `] (https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/AttnGAN.json)
+- [StackGAN++:Realistic Image Synthesis with Stacked Generative Adversarial Networks `CVPR` `2018 `](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/AttnGAN.json)
 
 
  <a href="#2016">2016</a>
