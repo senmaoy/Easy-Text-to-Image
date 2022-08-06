@@ -19,8 +19,8 @@ The submission formate is defined in [Submission Example](https://github.com/sen
 
 
 
-### <a name="list">Summery sheets</a>
-In this sheet, we report the best reproduced results, average results, and original result.
+### <a name="list">Summary sheets</a>
+In this sheet, we report the best reproduced results.
 
 |    Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 |   :------:  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
@@ -32,7 +32,7 @@ In this sheet, we report the best reproduced results, average results, and origi
 | [RAT-GAN]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.36±.20 | 13.91 |- |   14.60   |4.09 |-|
 
 
-In this sheet, we summerize the original results in the paper.
+In this sheet, we summarize the original results in the paper.
 
 |    Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 |   :------:  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
