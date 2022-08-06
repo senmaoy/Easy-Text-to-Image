@@ -47,21 +47,20 @@ In this sheet, we summarize the original results in the paper.
 
 
  <a href="#2022">2022</a>
- - [DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/DFGAN.json) 
+ - [DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis`CVPR` `2022`](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/DFGAN.json) 
  - [RAT-GAN：Recurrent Affine Transformation for Text-to-image Synthesis](https://github.com/Cwj1212) 
- - [LAFITE : Towards Language-Free Training for Text-to-Image Generation](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/LAFITE.json) 
+ - [LAFITE : Towards Language-Free Training for Text-to-Image Generation`CVPR` `2022`](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/LAFITE.json) 
+ - [SSAG:Text to Image Generation with Semantic-Spatial Aware GAN`CVPR` `2022`](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/SSA-GAN.json)
 <a href="#2017">2017</a>
 
-- StackGAN:Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks `CVPR` `2017` `results`3.70±.07  51.89
 
 <a href="#2018">2018</a>
 
-- StackGAN++:Realistic Image Synthesis with Stacked Generative Adversarial Networks `CVPR` `2018 ` `results `4.04±.05  15.30
+- [StackGAN++:Realistic Image Synthesis with Stacked Generative Adversarial Networks `CVPR` `2018 `] (https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/AttnGAN.json)
 
 
  <a href="#2016">2016</a>
- - Generative adversarial text to image synthesis  `ICML` `2016`
- - DCGAN:UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS `ICLR` `2016`
+ - [Generative adversarial text to image synthesis  `ICML` `2016`](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/Generative%20text-to-image%20synthesis.json)
 
 
 # Contributors
