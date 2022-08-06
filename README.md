@@ -43,7 +43,7 @@ In this sheet, we summarize the original results in the paper.
 | [DCGAN]() | GAN | ICML| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | - | - |    -     |-|- |-|
 | [RAT-GAN]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.36±.20 | 13.91 |- |   14.60   |4.09 |-|
 
-### <a name="Result List">More Reproduced Results</a>
+### <a name="Result List">Detailed Results</a>
 
 
  <a href="#2022">2022</a>
