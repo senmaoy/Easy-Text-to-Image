@@ -1,9 +1,9 @@
 
 # A tutorial for text-to-image synthesis
-To make text-to-image (T2I) easy, this repository will  provide simple demos, a comprehensive survey, and many experimental experiences. 
+To make text-to-image (T2I) easy, this repository  provide simple demos, a comprehensive survey, and experimental experiences from volunteers. 
 ## Simple Demos
 
-## A comprehensive survey
+## A Comprehensive Survey
 [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) Click here
 
 ## Repoduced-Results-of-text-to-image-models
