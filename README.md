@@ -19,25 +19,37 @@ The submission formate is defined in [Submission Example](https://github.com/sen
 
 
 
-### <a name="list">Summery sheet</a>
-In this sheet, we report the best results, average results, and original result.
+### <a name="list">Summery sheets</a>
+In this sheet, we report the best reproduced results, average results, and original result.
 
 |    Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
 |   :------:  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
 | [DF-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.10 | 14.81 |- |   19.32   |     -      |      -      |
 | [stack-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 3.70±.07 | 51.89 |8.45±.03 |   74.05   |  3.20±.01  |55.28|
-| [Lafite]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | - | 9.25 |- |  -   |- |-|
+| [LAFITE]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | - | 9.25 |- |  -   |- |-|
 | [stack++]() | GAN | Tpami| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.04±.05 | 15.30 |8.30±.10 |   81.59   |3.26±.01 |48.68|
 | [DCGAN]() | GAN | ICML| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | - | - |    -     |-|- |-|
 | [RAT-GAN]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.36±.20 | 13.91 |- |   14.60   |4.09 |-|
 
-### <a name="Paper List">Paper List</a>
+
+In this sheet, we summerize the original results in the paper.
+
+|    Paper    |  Method  |  Conference  |  Code |  IS(bird) | FID(bird)|IS(COCO) |FID(COCO)|IS(flower) |FID(flower)|
+|   :------:  | :------:  | :------: | :------: |:------: |:------: |:------: |:------: |:------: |:------: |
+| [DF-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.10 | 14.81 |- |   19.32   |     -      |      -      |
+| [stack-GAN]() | GAN | CVPR| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 3.70±.07 | 51.89 |8.45±.03 |   74.05   |  3.20±.01  |55.28|
+| [LAFITE]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | - | 9.25 |- |  -   |- |-|
+| [stack++]() | GAN | Tpami| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 4.04±.05 | 15.30 |8.30±.10 |   81.59   |3.26±.01 |48.68|
+| [DCGAN]() | GAN | ICML| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | - | - |    -     |-|- |-|
+| [RAT-GAN]() | GAN | arxiv| [Pytorch](https://github.com/Hzzone/DeepClustering.SSL) | 5.36±.20 | 13.91 |- |   14.60   |4.09 |-|
+
+### <a name="Result List">More Reproduced Results</a>
 
 
  <a href="#2022">2022</a>
- - DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis `CVPR` `2022` `results`5.10 14.81(CUB)
- - RAT-GAN：Recurrent Affine Transformation for Text-to-image Synthesis `CVPR` `2022` `results` 5.36±.20 13.91
-
+ - [DF-GAN: deep fusion generative adversarial networks for text-to-image synthesis](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/DFGAN.json) 
+ - [RAT-GAN：Recurrent Affine Transformation for Text-to-image Synthesis](https://github.com/Cwj1212) 
+ - [LAFITE : Towards Language-Free Training for Text-to-Image Generation](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/LAFITE.json) 
 <a href="#2017">2017</a>
 
 - StackGAN:Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks `CVPR` `2017` `results`3.70±.07  51.89
