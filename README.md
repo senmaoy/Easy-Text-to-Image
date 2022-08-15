@@ -2,7 +2,7 @@
 # A tutorial for text-to-image synthesis
 To make text-to-image (T2I) easy, this repository  provide simple demos, a comprehensive survey, and experimental experiences from volunteers. 
 ## Simple Demos
-[Demo 1](https://github.com/Heavenhjs/demot2i)
+[Demo 1](https://github.com/Heavenhjs/demot2i) [Demo 2](https://github.com/Tryici/RAT-GAN)
 ## A Comprehensive Survey
 [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) Click here
 
