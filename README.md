@@ -1,6 +1,5 @@
-
-# A tutorial for text-to-image synthesis
-To make text-to-image (T2I) easy, this repository  provide simple demos, a comprehensive survey, and experimental experiences from volunteers. 
+# Introduction
+To make text-to-image (T2I) easy, this repository provide a collection of image models, training / validation scripts that aim to pull together a wide variety of T2I models. What's more,  we provide simple demos, a comprehensive survey, and experimental experiences from volunteers. 
 ## Simple Demos
 [Demo 1](https://github.com/Heavenhjs/demot2i) [Demo 2](https://github.com/Tryici/RAT-GAN)
 ## A Comprehensive Survey
