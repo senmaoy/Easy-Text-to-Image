@@ -62,6 +62,17 @@ In this sheet, we summarize the original results in the paper.
  - [Generative adversarial text to image synthesis  `ICML` `2016`](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/Generative%20text-to-image%20synthesis.json)
 
 ### <a name="list">Jornal sheets</a>
+相关三区期刊列表
+1、COMPUTER VISION AND IMAGE UNDERSTANDING
+  
+2、Image and Vision Computing
+ 
+3、SIGNAL PROCESSING-IMAGE COMMUNICATION
+ 
+4、JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION
+ 
+
+
 ### <a name="list">Conference sheets</a>
 
 # Contributors
