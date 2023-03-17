@@ -1,5 +1,5 @@
 # Introduction
-To make text-to-image (T2I) easy, this repository provide a collection of image models, training / validation scripts that aim to pull together a wide variety of T2I models. What's more,  we provide simple demos, a comprehensive survey, and experimental experiences from volunteers. 
+To make text-to-image (T2I) easy, this repository provide a collection of image models, training / validation scripts that aim to pull together a wide variety of T2I models. What's more,  we provide simple demos, a comprehensive survey, and experimental experiences from volunteers. 还有一个CCFB~C的相关中英文期刊会议列表
 ## Simple Demos
 [Demo 1](https://github.com/Heavenhjs/demot2i) [Demo 2](https://github.com/Tryici/RAT-GAN)
 ## A Comprehensive Survey
@@ -61,6 +61,8 @@ In this sheet, we summarize the original results in the paper.
  <a href="#2016">2016</a>
  - [Generative adversarial text to image synthesis  `ICML` `2016`](https://github.com/senmaoy/Easy-Text-to-Image/blob/main/Reproduce/Generative%20text-to-image%20synthesis.json)
 
+### <a name="list">Jornal sheets</a>
+### <a name="list">Conference sheets</a>
 
 # Contributors
 
